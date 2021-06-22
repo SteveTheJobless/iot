@@ -11,15 +11,15 @@
 #define A3 D7
 #define A4 D8
 
-#define WLAN_SSID       "GEFORCE_DNA"             // Your SSID
-#define WLAN_PASS       "mystinkingshitonyourfuckingface007"        // Your password
+#define WLAN_SSID       ""             // Your SSID
+#define WLAN_PASS       ""        // Your password
 
 /************************* Adafruit.io Setup *********************************/
 
-#define AIO_SERVER      "io.adafruit.com" //Adafruit Server
-#define AIO_SERVERPORT  1883                   
-#define AIO_USERNAME    "SteveTheJobless"            // Username
-#define AIO_KEY         "3dcfd98f45e2428a8c94aefcd69e9693"   // Auth Key
+#define AIO_SERVER      "" //Adafruit Server
+#define AIO_SERVERPORT                    
+#define AIO_USERNAME    ""            // Username
+#define AIO_KEY         ""   // Auth Key
 
 //WIFI CLIENT
 WiFiClient client;
